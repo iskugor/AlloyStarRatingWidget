@@ -9,6 +9,6 @@
 
 '.starButton': {
 	left: 0,
-	backgroundRepeat: true
+	backgroundRepeat: false
 }
 
