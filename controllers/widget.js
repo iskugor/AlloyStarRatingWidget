@@ -75,3 +75,6 @@ exports.setRating = setRating;
 exports.getRating = function() {
 	return rating;
 };
+exports.addEventListener = function(name, cb) {
+	$.view.addEventListener(name, cb);
+};
